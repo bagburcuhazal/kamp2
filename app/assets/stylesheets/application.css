@@ -13,3 +13,7 @@
  *= require_tree .
  *= require_self
  */
+
+ #baslik {
+ 	font-size: 55px;
+ }
